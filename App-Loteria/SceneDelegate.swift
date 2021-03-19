@@ -1,6 +1,6 @@
 //
 //  SceneDelegate.swift
-//  App-Loteria
+//  Loteria
 //
 //  Created by Igor Delesposti on 19/03/21.
 //
